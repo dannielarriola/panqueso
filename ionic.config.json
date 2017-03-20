@@ -1,0 +1,5 @@
+{
+  "name": "panqueso-v1",
+  "app_id": "",
+  "gulpStartupTasks": ["sass", "watch"]
+}
